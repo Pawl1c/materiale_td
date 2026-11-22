@@ -1,0 +1,2868 @@
+{
+  "chapters": [
+    {
+      "title": "Capitolul 12 – Coroana mixtă metalo-ceramică",
+      "subtitle": "Infrastructură metalică, ceramică de placare, aliaje, bonding și fluxuri de laborator.",
+      "sections": [
+        {
+          "title": "Capitolul 12 – Coroana mixtă metalo-ceramică",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "CAPITOLUL 12"
+            },
+            {
+              "type": "paragraph",
+              "text": "COROANA MIXTĂ\nMETALO-CERAMICĂ"
+            },
+            {
+              "type": "paragraph",
+              "text": "Suport de învățare extins • explicații pe înțeles • valori tehnice păstrate"
+            },
+            {
+              "type": "paragraph",
+              "text": "Material elaborat pe baza PDF-ului furnizat (33 de pagini). Informațiile au fost reorganizate și explicate pentru învățare. Valorile numerice și denumirile tehnice sunt păstrate acolo unde apar în curs."
+            },
+            {
+              "type": "paragraph",
+              "text": "Notă privind zirconia: documentul-sursă este dedicat coroanei metalo-ceramice. Nu conține un subcapitol complet despre coroanele din zirconiu; menționează doar că mecanismul de toughening al zirconiei este tratat separat. Pentru a nu amesteca două capitole, nu am inventat aici date despre zirconiu."
+            }
+          ]
+        },
+        {
+          "title": "1. Definiție și evoluție istorică",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Coroana mixtă metalo-ceramică (CMMC) este o restaurare protetică fixă alcătuită din două componente care trebuie să funcționeze împreună:"
+            },
+            {
+              "type": "list",
+              "text": "Infrastructura metalică – scheletul intern care oferă rezistență mecanică și suport restaurării.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Componenta ceramică – stratul fizionomic aplicat peste metal, integral sau numai pe anumite suprafețe, pentru a reda culoarea, forma și aspectul dintelui.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Ideea esențială: metalul suportă solicitările, iar ceramica oferă aspectul estetic. Pentru ca restaurarea să reziste, cele două materiale trebuie să aibă o legătură stabilă și să se comporte compatibil la încălzire și răcire."
+            },
+            {
+              "type": "subheading",
+              "text": "Repere istorice"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "An/perioadă",
+                  "Contribuție menționată în curs"
+                ],
+                [
+                  "1885",
+                  "C.H. Land dezvoltă coroane de porțelan fuzionate pe o infrastructură din platină – precursor al restaurărilor moderne."
+                ],
+                [
+                  "1956",
+                  "A.J. Brecker descrie coroane și punți obținute prin arderea porțelanului pe aliaje de aur."
+                ],
+                [
+                  "1956–1958",
+                  "Gerald J. și Herman Axelrod brevetează o metodă de legare a porțelanului de aliaje de aur."
+                ],
+                [
+                  "1962",
+                  "Morris Weinstein, Abraham Weinstein și Sigmund Katz, împreună cu cercetătorul Koenig, contribuie la dezvoltarea ceramicilor cu leucit, pentru compatibilizarea dilatării termice și legătura cu aliajele."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "De ce a fost dificilă dezvoltarea CMMC? Metalul și ceramica au proprietăți diferite. Dacă se dilată sau se contractă diferit la ardere și răcire, pot apărea tensiuni interne, fisuri sau desprinderea ceramicii."
+            }
+          ]
+        },
+        {
+          "title": "2. Indicații, contraindicații și clasificare",
+          "blocks": [
+            {
+              "type": "subheading",
+              "text": "Indicații"
+            },
+            {
+              "type": "list",
+              "text": "Coroane unitare pe dinți naturali, atât în zona frontală, cât și în zona laterală.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Coroane pe bonturi reconstruite, inclusiv DCR-uri și reconstituiri corono-radiculare armate cu pini.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Restaurări supraimplantare.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Elemente de agregare în punți protetice fixe (PPF).",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Restaurări asociate protezelor parțiale scheletate (PPS), cu mijloace speciale de menținere, sprijin și stabilizare: culise, capse, praguri.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Sunt folosite mai ales în zonele laterale. Pot fi utilizate și frontal atunci când criteriul mecanic este mai important decât cel estetic."
+            },
+            {
+              "type": "subheading",
+              "text": "Contraindicații"
+            },
+            {
+              "type": "list",
+              "text": "Bruxism și parafuncții netratate – solicitările excesive cresc riscul de deteriorare.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Bonturi scurte cervico-incizal (dinți nanici) sau spațiu ocluzal insuficient, inclusiv plan de ocluzie neregulat prin egresiuni/extruzii.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Dinți tineri cu camere pulpare voluminoase – prepararea poate leza pulpa.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Restaurări antagoniste din mase plastice (PU, PPF sau proteze adjuncte acrilice), deoarece ceramica poate produce abraziunea accelerată a materialului plastic.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Clasificare după distribuția ceramicii"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Tip",
+                  "Descriere simplificată"
+                ],
+                [
+                  "CMMC total fizionomică",
+                  "Scheletul metalic este acoperit integral cu ceramică; metalul nu rămâne vizibil."
+                ],
+                [
+                  "CMMC parțial fizionomică",
+                  "Ceramica acoperă suprafețele vizibile; anumite zone, de regulă orale sau ocluzale, rămân metalice."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Prepararea și designul infrastructurii metalice",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Prepararea dintelui depinde de suprafețele care vor fi placate cu ceramică. Pe fețele fizionomice, limita cervicală este de tip shoulder (prag drept) sau deep chamfer (prag lat rotunjit). Pe fețele care nu vor fi placate se poate utiliza chamfer sau o terminație tangențială."
+            },
+            {
+              "type": "paragraph",
+              "text": "Grosimea minimă indicată pentru schelet este de peste 0,2 mm la aliajele nobile (Au) și peste 0,3 mm la aliajele semi-nobile și nenobile. Se evită unghiurile ascuțite și zonele subțiri, deoarece acestea pot concentra tensiunile sau pot permite deformarea."
+            },
+            {
+              "type": "subheading",
+              "text": "Capa"
+            },
+            {
+              "type": "paragraph",
+              "text": "Capa este o substructură cu morfologie redusă, cu grosime limitată, în general 0,2–0,4 mm, care susține ceramica. În cazul capei, coroana este de regulă total fizionomică, ceramica fiind aplicată pe toate fețele."
+            },
+            {
+              "type": "list",
+              "text": "Spațiul destinat ceramicii trebuie să fie uniform și să nu depășească, în mod obișnuit, 1,5–2 mm.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Dacă capa este subdimensionată (sub 0,2 mm) sau prea mică față de volumul dintelui, rezistența scade.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Dacă stratul ceramic devine prea gros (peste 2 mm), contracția la ardere crește și pot apărea fisuri sau ciobiri (chipping).",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Pe bonturi neuniforme sau reduse excesiv, capa poate fi îngroșată local pentru a asigura sprijin și grosime ceramică uniformă.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Ceara de colet și colereta"
+            },
+            {
+              "type": "paragraph",
+              "text": "În faza de machetă, zona cervicală se completează cu ceară de colet. O variantă este colereta: o îngroșare de ceară realizată oral și pe jumătatea orală a suprafețelor proximale. La molari sau la pacienți cu cerințe estetice reduse, colereta poate fi extinsă circular. Marginea metalică rămâne atunci supragingivală și vizibilă."
+            },
+            {
+              "type": "subheading",
+              "text": "Coroana semifizionomică și colereta înaltă"
+            },
+            {
+              "type": "paragraph",
+              "text": "La dinții frontali, ceramica acoperă în principal vestibularul și marginea incizală. La dinții laterali, poate acoperi suprafața ocluzală la nivelul cuspizilor vestibulari. O coleretă orală înaltă poate susține ceramica supracingulară sau ceramica de pe cuspizii orali."
+            },
+            {
+              "type": "list",
+              "text": "Termic: permite pătrunderea și distribuția mai uniformă a căldurii în schelet.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "La răcire: masa metalică mai groasă reține căldura și favorizează răcirea mai lentă, reducând șocul termic și tensiunile.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Mecanic: rigidizează scheletul și limitează deformarea flexurală la temperaturile ridicate din cuptor (900–950 °C).",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "La coroanele semifizionomice, stopul ocluzal nu trebuie să cadă pe linia de joncțiune metal–ceramică. Cursul indică păstrarea unei distanțe de 1,5–2 mm față de stopul ocluzal static."
+            },
+            {
+              "type": "subheading",
+              "text": "Alte variante de design marginal"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Design",
+                  "Caracteristică și scop"
+                ],
+                [
+                  "Tehnica Kuwata",
+                  "Reducerea metalului în zona cervicală vestibulară până în unghiul intern al pragului shoulder, astfel încât ceramica să rămână susținută de metal. Urmărește reducerea lizereului cenușiu."
+                ],
+                [
+                  "Porcelain butt-joint",
+                  "Metalul se oprește în unghiul intern rotunjit; marginea externă este de aproximativ 90°. Pragul are lățime de 1–1,2 mm și marginea este realizată din ceramică. Estetică bună, dar tehnică mai sensibilă."
+                ],
+                [
+                  "Coroană cu prag ceramic",
+                  "Metalul se termină mai coronar, în treimea cervicală, fără să ajungă la marginea cervicală; închiderea marginală este exclusiv ceramică."
+                ],
+                [
+                  "Coleretă metalică circulară",
+                  "Inel metalic cervical pe tot perimetrul. Oferă sprijin și adaptare marginală foarte bună, dar rămâne vizibilă; este utilă mai ales posterior."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4. Tehnologii de obținere a scheletului metalic",
+          "blocks": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Tehnologie",
+                  "Principiu și detalii din curs"
+                ],
+                [
+                  "Turnare",
+                  "Macheta de ceară este ambalată, apoi înlocuită cu aliaj topit. Se folosesc aliaje nobile, seminobile sau nenobile. Pentru titan sunt necesare condiții speciale; peste 880 °C acesta poate absorbi gaze și forma un strat casant. Topirea cu arc electric în argon este indicată în curs ca metodă de elecție, la 1660–1700 °C."
+                ],
+                [
+                  "Galvanizare",
+                  "Depunere electrolitică de aur pe bont duplicat. În aproximativ 4 ore se obține o capă de aur pur de 0,2 mm, peste care se depune 0,02 mm aur granulat pentru microretenție. Exemple: Auro Galvano Crown AGC, Gammat, Platamid, Helioform HF 600."
+                ],
+                [
+                  "Sinterizare – Captek",
+                  "Pulbere Au-Pd cu lianți ceramici este pensulată pe bont refractar, uscată și sinterizată la 1000 °C timp de 10 minute."
+                ],
+                [
+                  "Frezare CAD/CAM",
+                  "Substructura este frezată din blocuri omogene de aliaj sau titan pur. Exemple: Sopha, DentiCad, All Dent, DCS System."
+                ],
+                [
+                  "SLS",
+                  "Tehnică aditivă: pulberea metalică este depusă în straturi, particulele sunt încălzite superficial și unite strat cu strat cu laser."
+                ],
+                [
+                  "SLM",
+                  "Pulberea metalică este topită complet cu laser. Finisajul poate fi bun, dar pot apărea tensiuni interne mari; este necesar tratament termic de detensionare. Platanul poate fi preîncălzit până la 200 °C."
+                ],
+                [
+                  "EDM – electroeroziune",
+                  "Prelucrare prin descărcări electrice a metalelor conductoare, inclusiv titan. Electrodul se deplasează controlat, fluidul dielectric izolează și evacuează particulele. Cursul menționează până la 250.000 impulsuri/secundă; metoda este specializată, nu uzuală pentru infrastructurile CMMC."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Pentru turnare, cursul recomandă plastifierea cerii la temperatură constantă, folosirea unei cantități reduse de ceară, tije de 10–15 mm lungime și 3,5–4 mm diametru, relaxarea machetei pe bont (nu în apă), masă de ambalat cu expansiune controlată preparată sub vacuum și ambalarea machetei complet răcite."
+            }
+          ]
+        },
+        {
+          "title": "5. Aliaje și compatibilitatea metalo-ceramică",
+          "blocks": [
+            {
+              "type": "subheading",
+              "text": "Tipuri de aliaje"
+            },
+            {
+              "type": "list",
+              "text": "Aliaje nobile pe bază de aur: conțin Au și metale din grupa platinei (Pt, Pd), cu adaosuri de Sn, In și Fe. Cursul indică 78–87% aur și aproximativ 98% total metale nobile. Exemple: Au-Pt-Pd, Au-Pd, Au-Pd-Ag.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Aliaje pe bază de paladiu: Pd-Ag, Pd-Cu, Pd-Ga și Pd-Ga-Ag.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Aliaje nenobile: Ni-Cr (cu sau fără beriliu), Co-Cr, Fe-Cr, titan pur și aliaje de titan.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Condiții pe care trebuie să le îndeplinească aliajul"
+            },
+            {
+              "type": "list",
+              "text": "Interval de topire 1150–1450 °C; temperatura lichidus trebuie să fie cu 100–150 °C peste temperatura de sinterizare a ceramicii.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Rezistență la temperaturi înalte și la fluaj, pentru a nu se deforma sub propria greutate și sub tensiunile interne în timpul arderilor la 900–1000 °C.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "CDT-ul metalului trebuie să fie ușor mai mare decât CDT-ul ceramicii.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Contracție la turnare cunoscută și constantă, de maximum 1,5–2%, compensată prin expansiunea masei de ambalat.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Modul de elasticitate ridicat și proprietăți de călire, pentru schelete subțiri, dar rigide.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Biocompatibilitate, rezistență la coroziune și oxidare controlată.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "De ce metalul trebuie să aibă CDT puțin mai mare?"
+            },
+            {
+              "type": "paragraph",
+              "text": "La răcire, metalul cu CDT mai mare tinde să se contracte mai mult decât ceramica. Pentru că cele două sunt unite, metalul comprimă ceramica. Această compresiune reziduală este favorabilă: ceramica rezistă bine la compresiune, dar slab la tracțiune."
+            },
+            {
+              "type": "list",
+              "text": "Dacă CDT metalic este puțin mai mare: ceramica rămâne într-o stare favorabilă de compresiune.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Dacă CDT ceramic este mai mare: ceramica tinde să se contracte mai mult, iar tensiunile de tracțiune pot favoriza fisurile și fracturile.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Dacă valorile sunt egale: se reduc tensiunile reziduale radiale și tangențiale.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Reține: compatibilitatea termică nu înseamnă doar ca materialele să reziste la temperatură, ci să se dilate și să se contracte într-un raport controlat."
+            }
+          ]
+        },
+        {
+          "title": "6. Realizarea capei metalice prin turnare – etape de laborator",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Exemplul din curs urmărește realizarea unei CMMC total fizionomice la dintele 2.5."
+            },
+            {
+              "type": "list",
+              "text": "Obținerea machetei capei: prin imersie în ceară (dipping wax) sau adaptarea unei folii de polietilenă. Cursul indică 0,3 mm pentru aliaje nobile și 0,4 mm pentru aliaje nenobile.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Completarea cervicală: se adaugă ceară roșie de colet și se modelează colereta orală, cu trecere fină spre bont și rotunjire spre ocluzal.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Compensarea spațiului: se adaugă ceară în zonele necesare astfel încât să rămână un spațiu uniform pentru ceramică. Scopul este grosimea constantă a ceramicii și reducerea tensiunilor produse de contracții inegale.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Adăugarea tijei de manipulare: se fixează oral, la nivelul coleretei; cursul indică diametrul de 0,4 mm.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Pregătirea pentru ambalare: se atașează tija de turnare și se modelează rezervorul sferic de aliaj fluid sau sistemul de tije.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Priza masei de ambalat: după aproximativ 60–120 minute urmează tratamentul termic.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Preîncălzirea: până la 300 °C, timp de 30–60 minute.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Încălzirea: creșterea temperaturii cu aproximativ 20 °C/min până aproape de temperatura de topire a aliajului.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Topirea și turnarea: aliajul este adus până la punctul lichidus și turnat.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Dezambalarea și sablarea: se îndepărtează masa de ambalat și se curăță piesa.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Prelucrarea mecanică: planare, netezire și, unde este cazul, finisare. La capă se fac în principal planarea și netezirea; suprafețele metalice vizibile necesită finisare suplimentară.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Verificări: grosimea se controlează cu grosimetrul (în curs apare intervalul minim 0,2–0,4 mm, în funcție de aliaj), iar spațiul față de dinții vecini și antagoniști trebuie verificat.",
+              "ordered": true
+            }
+          ]
+        },
+        {
+          "title": "7. Condiționarea metalului și legătura metalo-ceramică",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Înainte de aplicarea ceramicii, suprafața metalică trebuie pregătită pentru a permite aderența. Succesiunea descrisă în curs este:"
+            },
+            {
+              "type": "list",
+              "text": "Sablare cu Al₂O₃ de 110–250 μm – curăță suprafața și creează rugozitate/microretenții.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Curățare cu jet de abur sau spălare cu apă, apoi uscare prin tamponare.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Oxidare controlată – scheletul este menținut 8–10 minute la 960–980 °C pentru formarea stratului de oxizi. Cursul menționează și eliminarea gazelor, reducerea tensiunilor interne și migrarea porozităților spre suprafață.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Fierbere în apă distilată la 100 °C sau utilizarea steamerului.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Aplicarea stratului de legătură: Preopac/Bonder/Wash-Bonder, sub formă de soluție sau pastă.",
+              "ordered": true
+            },
+            {
+              "type": "subheading",
+              "text": "Rolul bondingului"
+            },
+            {
+              "type": "list",
+              "text": "La aliajele Ni-Cr și Co-Cr, limitează difuzia oxizilor de nichel și crom în ceramică, prevenind nuanța verde sau gri-verzuie (Greenish Effect).",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Acționează ca strat tampon între metal și ceramică și poate reduce tensiunile asociate diferențelor de dilatare termică.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Îmbunătățește umectabilitatea și permite aplicarea mai uniformă a opacului.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "La aliajele nobile galvanizate, agenții CBA se aplică peste stratul de aur granulat de 0,02 mm și contribuie la reducerea forțelor tangențiale și de forfecare.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Teorii ale legăturii metalo-ceramice"
+            },
+            {
+              "type": "list",
+              "text": "Mecanică – microretenții; macroretențiile pot induce forțe de compresiune și nu sunt indicate.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Fizică – forțe de tip Van der Waals între molecule dipol.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Chimică – legături covalente, ionice și metalice.",
+              "ordered": false
+            }
+          ]
+        },
+        {
+          "title": "8. Ceramica de placare: compoziție și proprietăți",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Cursul descrie ceramica de placare ca având o matrice amorfă cu structuri de silice și o fază cristalină, responsabilă de o parte importantă a proprietăților mecanice, fizice, optice și chimice."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Componentă",
+                  "Proporție/rol"
+                ],
+                [
+                  "Feldspat",
+                  "Aproximativ 75%. Conține ortoză/albit; scade temperatura de sinterizare și crește vâscozitatea, ajutând materialul să-și păstreze forma. La sinterizare contribuie la faza sticloasă și la formarea leucitului."
+                ],
+                [
+                  "Cuarț",
+                  "22–25%. Oxidul de siliciu contribuie la rezistență, menținerea formei și transluciditate."
+                ],
+                [
+                  "Caolin",
+                  "0–3% în formulările descrise; agent de legătură și ajută modelarea. Cursul precizează că în masele moderne poate fi eliminat."
+                ],
+                [
+                  "Pigmenți anorganici",
+                  "Oxizi de titan, mangan, fier, cupru și cobalt; oferă culoarea."
+                ],
+                [
+                  "Lianți organici",
+                  "Amidon și glucoză."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Fritarea este obținerea pulberii ceramice prin topirea/fuzionarea componentelor, răcire rapidă și măcinare. Sinterizarea (arderea/coacerea) compactează particulele, densifică masa și reduce porozitatea."
+            },
+            {
+              "type": "subheading",
+              "text": "Proprietăți importante"
+            },
+            {
+              "type": "list",
+              "text": "Rezistență mare la compresiune, dar rezistență redusă la tracțiune și forfecare; ceramica este casantă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Fragilitate și rezistență redusă la impact; are nevoie de suport rigid metalic sau ceramic.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Conductivitate termică redusă – este un bun izolator.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Deformare plastică foarte mică, aproximativ 0,1%; de aceea microfisurile pot progresa rapid.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Duritate 460–600 VHN, comparativ cu aproximativ 343 VHN pentru smalț; poate abraza antagoniștii.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Porozitatea este influențată de arderea în vid, evacuarea gazelor și condițiile de răcire.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Oboseala materialului apare prin propagarea lentă a microfisurilor sub forțe masticatorii ciclice, în mediu umed.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Fluorescența, translucitatea, opacitatea și opalescența contribuie la imitarea aspectului dintelui natural.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Toughening – mecanisme de creștere a rezistenței la propagarea fisurilor"
+            },
+            {
+              "type": "list",
+              "text": "Crack Deflection & Pinning: cristalele dure din matrice deviază sau blochează fisura; traseul ei devine mai lung și consumă mai multă energie.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Thermal Toughening / schimb ionic: stratul superficial este pus în compresiune. Cursul descrie schimbul Na⁺ cu K⁺ într-o baie de KNO₃ la aproximativ 400–450 °C; ionii de potasiu, mai mari, comprimă rețeaua superficială și îngreunează inițierea și propagarea fisurilor.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Cursul precizează că mecanismul de toughening pentru zirconiu/zirconia este discutat separat, nu îl dezvoltă în acest capitol."
+            }
+          ]
+        },
+        {
+          "title": "9. Trusele, instrumentarul și condițiile de laborator",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Componentele de bază ale trusei ceramice sunt: grundul, opacul, ceramica pentru dentină și ceramica pentru smalț. Pot exista și glazură, lichid U/L, lichide colorate, lichid de izolare, mase de corectură și mase pentru gingie."
+            },
+            {
+              "type": "list",
+              "text": "Masele cervicale/de colet au cromatică mai intensă și sunt utilizate în zona cervicală.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Ceramica de prag (Schultermasse/shoulder porcelain) este folosită la praguri ceramice; are rezistență și stabilitate termică crescute și o temperatură de sinterizare mai ridicată.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Pensulă fină din păr natural de veveriță, mărimea 0–2: pentru primele straturi.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Pensulă moale, de exemplu Kolinsky, mărimea 12–14: pentru netezire, depunere și îndepărtarea pulberii.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Spatulă LeCron: sculptare, răzuire și fasonare; striurile de pe mâner pot vibra pasta și ajută eliminarea lichidului prin capilaritate.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Suporturi refractare și micromotor cu freze/pietre diamantate pentru retușuri și textură.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Mediul de lucru trebuie să fie curat, fără praf și dedicat stratificării. Instrumentarul se menține curat. Modelul de gips se izolează cu lac special gips–ceramică pentru ca gipsul să nu absoarbă apa din pastă și să provoace deshidratare bruscă."
+            }
+          ]
+        },
+        {
+          "title": "10. Condensarea și sinterizarea ceramicii",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Pasta ceramică se obține prin amestecarea pulberii cu lichidul din trusă sau cu apă bidistilată, conform sistemului. Apa este necesară modelării, dar trebuie eliminată treptat înainte de ardere."
+            },
+            {
+              "type": "paragraph",
+              "text": "Condensarea compactează particulele, elimină lichidul în exces și reduce contracția de sinterizare. Cursul indică posibilitatea reducerii contracției până la 18% prin combinarea metodelor."
+            },
+            {
+              "type": "list",
+              "text": "Vibrare.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Tamponare cu șervețel/sugativă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Uscare cu foenul sau la gura cuptorului.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Aplicarea pulberii uscate cu pensula – tehnica gravitației/absorbției; pulberea atrage apa prin capilaritate.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Înainte de ardere se face preuscarea, pentru a evita evaporarea bruscă a lichidului și apariția fisurilor. Temperatura depinde de producător și de strat; cursul oferă orientativ 930–980 °C, nu o valoare universală."
+            }
+          ]
+        },
+        {
+          "title": "11. Stratificarea ceramicii – succesiunea practică",
+          "blocks": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Strat",
+                  "Rol și caracteristici"
+                ],
+                [
+                  "Wash-opac / Wash opaque",
+                  "Primul strat subțire; umectează metalul, pătrunde în microretenții, contribuie la legătura fizico-chimică și reduce incluziunile de aer."
+                ],
+                [
+                  "Opac",
+                  "Strat mai dens, maschează culoarea închisă a metalului. Cursul indică opacitate mare; stratul trebuie să acopere infrastructura fără să pătrundă în interiorul coroanei."
+                ],
+                [
+                  "Dentină opacă",
+                  "Opacitate aproximativ 75–80%; utilă cervical și în spații înguste, de exemplu conectori de punte."
+                ],
+                [
+                  "Dentină standard / Body dentin",
+                  "Masa principală; oferă culoarea de bază, de exemplu A2/A3; opacitate aproximativ 50–60%."
+                ],
+                [
+                  "Dentină translucidă",
+                  "Nuanță asemănătoare dentinei standard, dar transmite mai multă lumină; opacitate aproximativ 35–40%."
+                ],
+                [
+                  "Smalț / incizal / translucent",
+                  "Masă cu nuanță proprie redusă sau absentă; filtrează lumina și reproduce transparența smalțului."
+                ],
+                [
+                  "Glazură / Glaze",
+                  "Strat final foarte subțire, asemănător unui lac; conferă netezime și luciu."
+                ]
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Etapele de aplicare"
+            },
+            {
+              "type": "list",
+              "text": "Alegerea culorii cu cheia de culori, înainte de stratificare.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Aplicarea wash-opacului în strat fin și uniform; sinterizarea conform programului producătorului.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Aplicarea opacului peste wash-opac și arderea lui. Consistența este mai mare, iar aspectul după ardere este mat, gălbui, asemănător cojii de ou.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Izolarea modelului cu soluția indicată (de exemplu Modisol) și, la nevoie, protejarea dinților vecini cu șervețel umed.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Aplicarea dentinei cervicale și a dentinei opace pentru reconstruirea formei de la colet spre incizal/ocluzal.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Construirea formei anatomice ușor supradimensionat, cu aproximativ 1–2 mm, pentru a compensa contracția de ardere. Cursul menționează contracție de aproximativ 20–25%, redusă spre 15–18% prin condensare eficientă.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Modelarea șanțurilor și fisurilor cu ace endodontice și verificarea inițială a relațiilor ocluzale.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Realizarea cut-back-ului în sens cervico-incizal/ocluzal și mezio-distal pentru a crea spațiu smalțului și maselor translucide.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Aplicarea smalțului și a maselor translucide în straturi întrepătrunse cu dentina, fără o linie de demarcație evidentă. În zona frontală se aplică smalț vestibular și masă translucidă palatinal/lingual.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Completarea proximală cu dentină body, de regulă cu luminozitate mai mare, pentru a evita aspectul întunecat al punctelor de contact.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Curățarea interiorului coroanei și corectarea marginilor cervicale.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Preuscarea 5–10 minute la gura cuptorului, apoi sinterizarea sub vacuum, în funcție de producător; cursul oferă orientativ 900–980 °C și aproximativ 5–7 minute.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Răcirea lentă până la temperatura camerei.",
+              "ordered": true
+            }
+          ]
+        },
+        {
+          "title": "12. Finisarea, individualizarea și verificarea finală",
+          "blocks": [
+            {
+              "type": "list",
+              "text": "După sinterizare, se verifică inserția pe bont și se identifică zonele care împiedică așezarea completă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se ajustează punctele de contact proximale, muchiile de trecere, zona cervicală, fețele axiale și suprafața ocluzală.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Relațiile ocluzale se verifică static și dinamic cu hârtie de articulație; se urmăresc contacte multiple și echilibrate.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Textura de suprafață se obține cu freze diamantate, inclusiv con invers și flacără.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Masele de corectură se ard la o temperatură cu 10–20 °C mai mică decât arderea precedentă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Individualizarea se realizează cu pigmenți externi (Stains), de exemplu brun la colet și gri/albăstrui pentru efecte incizale.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Glazura se aplică în strat foarte fin și se arde fără vacuum, în prezența oxigenului; cursul indică aproximativ 850–920 °C timp de 1–2 minute.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se poate obține luciul și prin autoglazurare – o nouă ardere fără aplicarea prealabilă a masei de glazură.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Suprafețele metalice vizibile se prelucrează și se lustruiesc separat. Curățarea finală se face în baie ultrasonică sau cu jet de abur.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "După finalizare, piesa se probează și se adaptează pe model și intraoral; cursul menționează cimentarea provizorie de probă și ulterior cimentarea definitivă."
+            }
+          ]
+        },
+        {
+          "title": "13. Fluxul digital CAD/CAM și cazul cu SLM",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "În exemplul clinic de la premolarul secund superior drept (1.5), infrastructura metalică a fost obținută prin printare 3D folosind SLM. Fluxul începe cu etapele clinice – examinare, diagnostic, plan de tratament, preparare și amprentare – apoi continuă în laborator."
+            },
+            {
+              "type": "subheading",
+              "text": "Etapa analogică de laborator"
+            },
+            {
+              "type": "list",
+              "text": "Amprenta arcadei de lucru: silicon de adiție, tehnica dublului amestec (chitos și fluid).",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Arcada antagonistă: alginat; înregistrarea ocluziei: silicon special.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Dezinfecția amprentelor: Zeta 7 Solution timp de 10 minute, apoi spălare și uscare.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Modelul antagonist: gips clasa a III-a; modelul de lucru: gips extradur clasa a IV-a, preparat la vacuum-malaxor.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Bonturi mobile: pini speciali și tehnica Pindex; modelele sunt secționate și montate în articulatorul semiadaptabil Artex.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Etapa digitală"
+            },
+            {
+              "type": "list",
+              "text": "Se completează fișa de laborator în software și se selectează dintele 1.5 și restaurarea „Coping” (capă).",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se scanează modelul maxilar, mandibular, ocluzia și separat bontul mobil (multi-die scan), cu scanner MEDIT și Medit Scan for Labs versiunea 1.7.3.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Scanările sunt suprapuse și aliniate; ocluzia este înregistrată digital.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "În Exocad se realizează designul infrastructurii metalice; fișierul STL este trimis către centrul de printare/frezare.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se trasează marginea preparației, se stabilește axa de inserție, se decupează modelul și se poziționează coroana anatomică.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se reduce anatomic coroana pentru a crea spațiul ceramicii. În exemplul din curs, grosimea minimă a capei a fost setată la 0,45 mm, reducerea coroanei anatomice a fost de 0,6 mm, iar spațiul vizualizat pentru ceramică a fost de 1,5 mm.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Modelarea se ajustează cu instrumentele Freeform, care permit netezirea, reducerea și adăugarea de material.",
+              "ordered": true
+            },
+            {
+              "type": "subheading",
+              "text": "Condiționare și placare în exemplul SLM"
+            },
+            {
+              "type": "list",
+              "text": "Sablare pentru curățare și creșterea rugozității.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Oxidare timp de 10 minute la 980 °C.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Aplicare IPS InLine opac în strat subțire și uniform; ardere la 930 °C, apoi aplicarea și arderea celui de-al doilea strat pentru opacizare completă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Aplicarea dentinei body A1 și a dentinei translucide pentru construirea morfologiei.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Cut-back pentru spațiul maselor incizale/translucente; arderea dentinei în exemplu la 910 °C.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Aplicarea IPS InLine Transpa Incisal 1, Transpa Incisal 2 și Transpa Clear; ardere la 910 °C timp de 15 minute.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Ardere de corectură, prelucrare cu discuri și freze diamantate, verificarea contactelor proximale și ocluzale.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Caracterizare cu pigmenți MIYO: galben-maroniu la colet și în șanțul mezio-distal, albastru la vârfurile cuspizilor; glazurare la 830 °C.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Atenție: valorile de mai sus sunt parametrii exemplului din curs, nu rețete universale. Programul real se stabilește conform aliajului, ceramicii și instrucțiunilor producătorului."
+            }
+          ]
+        },
+        {
+          "title": "14. Recapitulare rapidă – valori de reținut",
+          "blocks": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Parametru",
+                  "Valoare din curs"
+                ],
+                [
+                  "Grosime schelet aliaje nobile",
+                  "peste 0,2 mm"
+                ],
+                [
+                  "Grosime schelet aliaje semi-nobile/nenobile",
+                  "peste 0,3 mm"
+                ],
+                [
+                  "Grosime capă descrisă",
+                  "0,2–0,4 mm"
+                ],
+                [
+                  "Spațiu ceramic recomandat",
+                  "maximum aproximativ 1,5–2 mm"
+                ],
+                [
+                  "Distanță joncțiune metal–ceramică față de stop",
+                  "1,5–2 mm"
+                ],
+                [
+                  "Tije de turnare",
+                  "10–15 mm lungime; 3,5–4 mm diametru"
+                ],
+                [
+                  "Galvanizare",
+                  "aprox. 4 ore; capă Au 0,2 mm + strat granulat 0,02 mm"
+                ],
+                [
+                  "Captek",
+                  "1000 °C, 10 minute"
+                ],
+                [
+                  "SLM – preîncălzire platan",
+                  "până la 200 °C"
+                ],
+                [
+                  "Aliaj – interval de topire",
+                  "1150–1450 °C"
+                ],
+                [
+                  "Diferență lichidus față de sinterizarea ceramicii",
+                  "+100–150 °C"
+                ],
+                [
+                  "Temperaturi ardere ceramică – orientativ",
+                  "930–980 °C; depinde de producător"
+                ],
+                [
+                  "Oxidare schelet – etapă generală",
+                  "8–10 minute la 960–980 °C"
+                ],
+                [
+                  "Sablare",
+                  "Al₂O₃ 110–250 μm"
+                ],
+                [
+                  "Preuscare piesă stratificată",
+                  "5–10 minute la gura cuptorului"
+                ],
+                [
+                  "Sinterizare dentină/smalț – exemplu general",
+                  "aprox. 900–980 °C, 5–7 minute, sub vacuum"
+                ],
+                [
+                  "Contracție ceramică la ardere",
+                  "aprox. 20–25%; prin condensare eficientă poate scădea la 15–18%"
+                ],
+                [
+                  "Duritate ceramică",
+                  "460–600 VHN; smalț aproximativ 343 VHN"
+                ],
+                [
+                  "Deformare plastică ceramică",
+                  "aprox. 0,1%"
+                ],
+                [
+                  "Schimb ionic pentru toughening",
+                  "KNO₃, aproximativ 400–450 °C"
+                ],
+                [
+                  "Glazurare – interval orientativ",
+                  "850–920 °C, 1–2 minute"
+                ],
+                [
+                  "Exemplu SLM – capă CAD",
+                  "0,45 mm"
+                ],
+                [
+                  "Exemplu SLM – spațiu ceramic",
+                  "1,5 mm"
+                ],
+                [
+                  "Exemplu SLM – oxidare",
+                  "10 minute la 980 °C"
+                ],
+                [
+                  "Exemplu SLM – opac",
+                  "930 °C"
+                ],
+                [
+                  "Exemplu SLM – dentină și smalț",
+                  "910 °C; smalț 15 minute"
+                ],
+                [
+                  "Exemplu SLM – glazură",
+                  "830 °C"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Întrebări de verificare",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "1. Din ce două componente structurale este alcătuită CMMC și ce rol are fiecare?"
+            },
+            {
+              "type": "paragraph",
+              "text": "2. Care sunt principalele indicații și contraindicații ale CMMC?"
+            },
+            {
+              "type": "paragraph",
+              "text": "3. Care este diferența dintre CMMC total fizionomică și parțial fizionomică?"
+            },
+            {
+              "type": "paragraph",
+              "text": "4. De ce se păstrează un spațiu uniform pentru ceramică și de ce se evită grosimi peste 2 mm?"
+            },
+            {
+              "type": "paragraph",
+              "text": "5. Ce rol are colereta înaltă la coroana semifizionomică?"
+            },
+            {
+              "type": "paragraph",
+              "text": "6. Explică pe scurt tehnica Kuwata și principiul porcelain butt-joint."
+            },
+            {
+              "type": "paragraph",
+              "text": "7. Enumeră cele șapte tehnologii de obținere a infrastructurii metalice prezentate în curs."
+            },
+            {
+              "type": "paragraph",
+              "text": "8. Care este diferența de principiu dintre SLS și SLM?"
+            },
+            {
+              "type": "paragraph",
+              "text": "9. De ce trebuie ca CDT-ul metalului să fie ușor mai mare decât cel al ceramicii?"
+            },
+            {
+              "type": "paragraph",
+              "text": "10. Ce se întâmplă dacă CDT-ul ceramicii este mai mare decât cel al metalului?"
+            },
+            {
+              "type": "paragraph",
+              "text": "11. Care sunt etapele condiționării metalului înainte de placare?"
+            },
+            {
+              "type": "paragraph",
+              "text": "12. Care sunt rolurile bondingului?"
+            },
+            {
+              "type": "paragraph",
+              "text": "13. Enumeră componentele principale ale ceramicii și proporțiile feldspatului și cuarțului."
+            },
+            {
+              "type": "paragraph",
+              "text": "14. De ce ceramica este vulnerabilă la tracțiune, impact și răcire rapidă?"
+            },
+            {
+              "type": "paragraph",
+              "text": "15. Ce înseamnă Crack Deflection & Pinning și schimbul ionic cu KNO₃?"
+            },
+            {
+              "type": "paragraph",
+              "text": "16. Care este rolul wash-opacului, opacului, dentinei body, dentinei translucide și glazurii?"
+            },
+            {
+              "type": "paragraph",
+              "text": "17. De ce se face cut-back și de ce se modelează dentina supradimensionat?"
+            },
+            {
+              "type": "paragraph",
+              "text": "18. Care sunt metodele de condensare a pastei ceramice?"
+            },
+            {
+              "type": "paragraph",
+              "text": "19. Cum se verifică adaptarea proximală și ocluzală la final?"
+            },
+            {
+              "type": "paragraph",
+              "text": "20. Descrie fluxul digital din exemplul cu scanner MEDIT, Exocad și printare SLM."
+            }
+          ]
+        },
+        {
+          "title": "Idei-cheie pentru examen",
+          "blocks": [
+            {
+              "type": "list",
+              "text": "CMMC = schelet metalic rezistent + ceramică fizionomică.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Compatibilitatea CDT este esențială: metalul trebuie să aibă CDT ușor mai mare decât ceramica.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Stratul de oxizi și bondingul contribuie la legătura dintre metal și ceramică.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Ceramica este casantă: rezistă bine la compresiune, slab la tracțiune și impact.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Condensarea și răcirea lentă reduc riscul de porozități și fisuri.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Ordinea logică a placării: wash-opac → opac → dentină → smalț/translucid → corecturi → stains/glaze.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Fluxul digital: scanare → aliniere → CAD → STL → fabricație (frezare/SLM) → condiționare → placare → finisare.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Materialul a fost dezvoltat din informațiile prezente în curs. Unde cursul oferă intervale orientative sau parametri ai unui caz demonstrativ, aceștia sunt marcați ca atare și nu trebuie considerați valori universale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Capitolul 13 – Coroana integral ceramică",
+      "subtitle": "Ceramici vitroase și policristaline, presare, CAD/CAM, zirconia și fluxuri de laborator.",
+      "sections": [
+        {
+          "title": "Capitolul 13 – Coroana integral ceramică",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "CAPITOLUL 13"
+            },
+            {
+              "type": "paragraph",
+              "text": "COROANA INTEGRAL\nCERAMICĂ"
+            },
+            {
+              "type": "paragraph",
+              "text": "Suport de învățare extins • explicații clare • clasificări și valori tehnice"
+            },
+            {
+              "type": "paragraph",
+              "text": "Material elaborat pe baza PDF-ului furnizat, de 59 de pagini. Conținutul este reorganizat pentru învățare, iar denumirile sistemelor, clasificările, valorile și etapele tehnologice importante sunt păstrate."
+            },
+            {
+              "type": "paragraph",
+              "text": "Atenție: temperaturile, presiunile și grosimile diferă în funcție de produs și de protocolul producătorului. Valorile din exemplele clinice ale cursului sunt marcate ca exemple, nu ca rețete universale."
+            }
+          ]
+        },
+        {
+          "title": "1. Istoricul ceramicii dentare",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Ceramica dentară a evoluat de la porțelanuri fragile și opace la materiale moderne cu rezistență mecanică ridicată, translucență controlată și posibilitatea prelucrării digitale. Dezvoltarea a urmărit permanent echilibrul dintre estetică, rezistență, adaptare marginală și predictibilitatea fabricației."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "An/perioadă",
+                  "Moment important"
+                ],
+                [
+                  "1774",
+                  "Alexis Duchâteau și Nicholas Dubois de Chémant realizează primele proteze din porțelan, înlocuind dinții din os sau fildeș."
+                ],
+                [
+                  "1886",
+                  "Charles Land patentează coroana Jacket din porțelan ars pe folie de platină; estetică bună, dar rezistență mecanică redusă."
+                ],
+                [
+                  "1962",
+                  "Weinstein și colaboratorii dezvoltă porțelanul feldspatic cu coeficient de dilatare termică adaptat aliajelor metalice; se consolidează sistemul metalo-ceramic."
+                ],
+                [
+                  "1968–1972",
+                  "MacCulloch și Grossmann dezvoltă ceramica sticloasă turnată prin metoda cerii pierdute – sistemul Dicor."
+                ],
+                [
+                  "1980",
+                  "McLean prezintă ceramica armată cu alumină, fără suport metalic."
+                ],
+                [
+                  "1985",
+                  "Mörmann și Brandestini introduc sistemul CAD/CAM CEREC."
+                ],
+                [
+                  "1990",
+                  "Se dezvoltă ceramica sticloasă presată, inclusiv IPS Empress."
+                ],
+                [
+                  "Anii 2000",
+                  "Disilicatul de litiu (IPS e.max) combină estetica cu rezistența de aproximativ 350–500 MPa."
+                ],
+                [
+                  "Prezent",
+                  "Zirconia 3Y-TZP oferă rezistență foarte mare; generațiile 4Y/5Y-TZP au translucență îmbunătățită și permit restaurări monolitice."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Ideea de reținut: progresul materialelor ceramice a permis trecerea de la restaurări estetice, dar fragile, la restaurări care pot suporta solicitări funcționale mai mari."
+            }
+          ]
+        },
+        {
+          "title": "2. Clasificarea după compoziție și microstructură",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Clasificarea Kelly și Gracis împarte ceramica dentară în patru categorii. Diferența principală este cantitatea de fază sticloasă și modul în care cristalele sunt organizate în material."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Categorie",
+                  "Structură și exemple",
+                  "Caracteristici / utilizare"
+                ],
+                [
+                  "1. Ceramici vitroase",
+                  "Conțin în principal silică; ceramică feldspatică.",
+                  "Translucență și estetică foarte bune, dar rezistență mecanică redusă. Folosite la fațete și ca ceramică de placare."
+                ],
+                [
+                  "2. Vitroceramici cu umplutură cristalină",
+                  "Leucit, disilicat de litiu, fluoroapatită; ZLS.",
+                  "Cristalele întăresc matricea sticloasă. Disilicatul de litiu are rezistență de aproximativ 350–500 MPa și poate fi presat sau frezat."
+                ],
+                [
+                  "3. Ceramici cristaline cu matrice de sticlă",
+                  "Alumină cu fază sticloasă infiltrată; In-Ceram Alumina, Spinell, Zirconia.",
+                  "Structură interpenetrantă, rezistență aproximativ 350–650 MPa. Folosite în special pentru nuclee/infrastructuri."
+                ],
+                [
+                  "4. Ceramici policristaline",
+                  "Alumină sau zirconia fără matrice de sticlă.",
+                  "Rezistență ridicată; variantele clasice sunt mai opace. Zirconia modernă poate fi suficient de translucidă pentru restaurări monolitice."
+                ]
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "De ce contează clasificarea?"
+            },
+            {
+              "type": "list",
+              "text": "Categoriile 1 și 2 conțin fază sticloasă și pot fi gravate cu acid fluorhidric (HF), apoi silanizate, pentru cimentare adezivă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Categoria 3 poate fi parțial gravabilă sau negravabilă, în funcție de cantitatea de sticlă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Categoria 4 nu conține matrice sticloasă și nu se gravează cu HF. Se condiționează prin sablare cu Al₂O₃ și primeri cu monomeri MDP.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "În general, mai multă fază sticloasă înseamnă transluciditate mai mare, dar rezistență la flexiune mai mică. Policristalinele au rezistență mai mare, dar pot fi mai opace.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Alumina policristalină Procera AllCeram este menționată în curs ca material care nu mai este utilizat curent în stomatologia modernă. Categoria policristalină este reprezentată astăzi în principal de dioxidul de zirconiu."
+            }
+          ]
+        },
+        {
+          "title": "3. Clasificarea după tehnologia de obținere",
+          "blocks": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Sistem",
+                  "Principiu",
+                  "Exemple / rezultat"
+                ],
+                [
+                  "Aditiv – stratificare",
+                  "Pulberea ceramică se depune succesiv pe folie de platină sau pe bont refractar și se sinterizează.",
+                  "Fațete și coroane cu estetică/translucență ridicată."
+                ],
+                [
+                  "Aditiv – presare/injectare",
+                  "Ceramica este încălzită până devine plastică și este împinsă de un plunger în tiparul din masa de ambalat.",
+                  "IPS e.max Press, VITA AMBRIA, IPS Empress."
+                ],
+                [
+                  "Substractiv – frezare mecanică",
+                  "O machetă este copiată mecanic într-un bloc ceramic.",
+                  "Celay, Ceramatic – sisteme istorice."
+                ],
+                [
+                  "Substractiv – CAD/CAM",
+                  "Scanare, proiectare virtuală și frezare computerizată din bloc/disc prefabricat.",
+                  "CEREC, Exocad și unități de frezare moderne."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Aditiv înseamnă că materialul se construiește prin adăugare. Substractiv înseamnă că restaurarea este obținută prin îndepărtarea materialului dintr-un bloc."
+            }
+          ]
+        },
+        {
+          "title": "4. Sisteme aditive: stratificare și presare",
+          "blocks": [
+            {
+              "type": "subheading",
+              "text": "4.1. Stratificarea pe folie de platină"
+            },
+            {
+              "type": "paragraph",
+              "text": "Folia de platină este un suport temporar pentru ceramică în timpul sinterizării; se îndepărtează complet înainte de cimentare."
+            },
+            {
+              "type": "list",
+              "text": "Folia de aproximativ 0,025 mm se adaptează intim pe bontul din ghips.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Excesul se pliază oral, realizând o îmbinare strânsă (tinner's joint), apoi se brunisează cu instrumente din lemn sau brunisoare metalice.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Folia se extinde ușor apical de prag pentru stabilitate și se degazează termic pentru eliminarea impurităților organice și a oxizilor.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se aplică succesiv dentina, smalțul și masele incizale, păstrând curată suprafața internă a foliei.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Straturile se ard împreună, iar folia se îndepărtează după obținerea restaurării.",
+              "ordered": true
+            },
+            {
+              "type": "subheading",
+              "text": "4.2. Stratificarea pe bont refractar"
+            },
+            {
+              "type": "paragraph",
+              "text": "Bontul refractar este duplicat dintr-o masă de ambalat care rezistă la temperaturi înalte. Ceramica se aplică direct pe el, fără folie intermediară."
+            },
+            {
+              "type": "list",
+              "text": "Nu este necesar un opac clasic, deoarece nu există metal de mascat.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se pot aplica dentină opacă, dentină translucidă și smalț, succesiv sau împreună.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "După sinterizare, bontul refractar se îndepărtează prin sablare delicată, începând de la baza/tija bontului și avansând spre intrados.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Presiunea indicată este 1–2 bari, cu Al₂O₃ fin de 50 μm sau bile de sticlă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Suprafața vestibulară a restaurării trebuie protejată pentru a nu fi mătuite sau deteriorate straturile ceramice.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Dezavantaj: dacă sunt necesare corecturi și arderi suplimentare, bontul duplicat trebuie refăcut."
+            },
+            {
+              "type": "subheading",
+              "text": "4.3. Presarea ceramicii"
+            },
+            {
+              "type": "paragraph",
+              "text": "Tehnica press utilizează un lingou ceramic care se plastifiază în cuptor. Un plunger aplică presiune și împinge materialul în cavitatea tiparului, reproducând forma machetei."
+            },
+            {
+              "type": "list",
+              "text": "Disilicatul de litiu (IPS e.max Press) are aproximativ 350–450 MPa în exemplul descris și oferă un compromis bun între rezistență și estetică.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Indicații: coroane unitare frontale și laterale, inlay, onlay, fațete și fațete ocluzale (table-tops).",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Este mai fragil decât zirconia complet policristalină.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Overpress – presare peste o substructură"
+            },
+            {
+              "type": "list",
+              "text": "Press-on-Metal (PoM): peste scheletul metalic frezat sau printat se modelează macheta anatomică, apoi se injectează o ceramică specială fluorapatitică/leucitică.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Press-on-Zirconia: peste infrastructura din zirconiu frezat se suprapresează o ceramică sticloasă specială, de exemplu IPS e.max ZirPress.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Substructura trebuie să ofere suport adecvat. Cursul recomandă limitarea acestor restaurări la punți de maximum 3 elemente.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Contraindicații menționate: bruxism/parafuncții, dinți cu pierdere mare de substanță, bonturi nanice și spațiu ocluzal insuficient.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Temperatura de injectare"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Tip",
+                  "Interval indicat"
+                ],
+                [
+                  "Temperatură înaltă",
+                  "Aproximativ 1100–1200 °C"
+                ],
+                [
+                  "Temperatură joasă",
+                  "Aproximativ 650–900 °C; în special pentru ceramici hidrotermale sau leucit fin"
+                ]
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Sisteme și materiale"
+            },
+            {
+              "type": "list",
+              "text": "Ivoclar: IPS Empress – vitroceramică ranforsată cu leucit; IPS e.max Press – disilicat de litiu; IPS e.max ZirPress – sticlă-ceramică pe bază de fluoroapatită pentru suprapresare pe zirconiu.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "IPS e.max CAD este varianta frezabilă din disilicat de litiu; IPS e.max ZirCAD este pe bază de oxid de zirconiu; IPS e.max Ceram este ceramica de placare pe bază de nano-fluoroapatită.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "VITA: PM9 este generația mai veche pe bază de feldspat/leucit; VITA AMBRIA este material presabil modern pe bază de disilicat de litiu armat cu aproximativ 10% ZrO₂ (ZLS), cu rezistență peste 400 MPa.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "IPS Empress 1 era folosită full-contour și caracterizată prin stain; IPS Empress 2 a introdus nucleul din disilicat de litiu, cu grosime minimă indicată de 0,8 mm, placat cu fluorapatită.",
+              "ordered": false
+            }
+          ]
+        },
+        {
+          "title": "5. Tehnologia presării – etape de laborator",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Etapele de mai jos sintetizează protocolul descris pentru obținerea unei coroane presate. Unele dimensiuni apar în curs cu valori ușor diferite în funcție de etapa descrisă; se respectă instrucțiunile sistemului utilizat."
+            },
+            {
+              "type": "list",
+              "text": "Se realizează macheta din ceară bio-organică, cu contracție redusă și ardere fără reziduuri, prin picurare, frezare CAD/CAM sau printare.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se modelează morfologia anatomică. Zona cervicală poate fi îngroșată pentru rezistență.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se atașează tija de presare. Cursul indică diametrul de aproximativ 2,5–3 mm (într-un pasaj apare peste 3 mm), lungime 3–8 mm și poziționare la 45–60° față de bază; lungimea totală machetă plus tijă nu trebuie să depășească aproximativ 15–16 mm.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Macheta și tija se cântăresc pentru alegerea lingoului. Se degresează, se detensionează dacă protocolul cere și se usucă.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se alege conformatorul din silicon de 100 sau 200 g, în funcție de mărimea și numărul machetelor.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Masa de ambalat se amestecă manual, apoi în vacuum-malaxor și se introduce treptat pe vibrator pentru a evita bulele de aer.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se umple cilindrul, se montează capacul conformatorului și se elimină excesul. Exemple de mase: Press Vest și PressVest speed. Temperatura ambientală indicată: 18–23 °C; priza: 30–60 minute. Presarea se efectuează în mai puțin de 24 h.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "După priză se îndepărtează conformatorul. Se netezesc suprafețele lucioase care ar putea împiedica evacuarea gazelor și se suflă canalele cu aer comprimat.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Tiparul se preîncălzește. În exemplul din curs, cilindrul este menținut la 850 °C timp de 60 minute, pentru arderea cerii și uscarea masei de ambalat.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se transferă rapid tiparul în cuptorul de presare (în mai puțin de 30 secunde). Se introduce lingoul rece și plungerul, cu separatorul indicat de producător.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Cuptorul plastifiază lingoul și aplică presiune automat. După ciclu, cilindrul se răcește lent până la temperatura camerei.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Dezambalarea se face după aproximativ 60 minute. Se secționează masa de ambalat și se sablează cu perle de sticlă: inițial până la 4 bari, apoi aproximativ 2 bari în apropierea piesei.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Reziduurile din zona plungerului se îndepărtează cu Al₂O₃ de 100 μm. Pentru îndepărtarea stratului de reacție se folosește Invex Liquid și baie ultrasonică timp de 10–30 minute, conform protocolului.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se taie tija cu disc diamantat, se îndepărtează die spacer-ul și se probează pe model.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se verifică mai întâi contactele proximale, apoi contactele ocluzale cu hârtie de articulație. Ajustările se fac cu freze diamantate la presiune și viteză reduse.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se finisează suprafețele cu polipanturi. Se aplică stain în zonele cervicale și în șanțurile ocluzale, apoi glaze pe suprafața coroanei.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "În exemplul de curs, arderea stain/glaze s-a făcut în atmosferă la aproximativ 724 °C.",
+              "ordered": true
+            }
+          ]
+        },
+        {
+          "title": "6. Coroana integral ceramică stratificată pe capă presată",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "În această variantă se presează o capă (coping), nu o coroană complet anatomică. Peste capă se adaugă ceramică prin stratificare pentru a reda forma și efectele optice ale dintelui."
+            },
+            {
+              "type": "subheading",
+              "text": "Planificare și machetare digitală"
+            },
+            {
+              "type": "list",
+              "text": "Se realizează un wax-up de diagnostic pentru a stabili forma finală și ghidurile estetice/funcționale.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se scanează preparațiile și wax-up-ul, apoi se aliniază în Exocad pe baza unor puncte comune.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se pot printa 3D modelele de lucru; modelul fizic este necesar pentru probă, adaptare și stratificare manuală.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "În software se selectează coroana/capa, materialul de machetă, spațiul pentru ciment, grosimea minimă a capei și spațiul pentru ceramica de placare.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se trasează limita preparației și se stabilește axul de inserție.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se suprapune wax-up-ul peste modelul preparațiilor și se modelează capa după conturul exterior planificat.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se verifică ocluzia și contactele proximale digital; în exemplul din curs reducția anatomică uniformă a fost de aproximativ 0,8 mm.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Ambalare, presare și verificare"
+            },
+            {
+              "type": "list",
+              "text": "Machetele sunt atașate la tije, ambalate și încălzite pentru eliminarea cerii.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "În exemplul IPS e.max Press, lingoul ales a fost A1, MT.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "După presare, cilindrul se răcește natural; răcirea bruscă poate genera tensiuni interne și fisuri.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se sablează pentru îndepărtarea masei refractare, apoi se taie canalele de turnare și se netezesc suprafețele.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Capele se adaptează pe model și se verifică cu spray de marcare ocluzală.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "După proba clinică, în exemplul din curs grosimea capei a fost verificată cu șublerul: aproximativ 0,58 mm, peste limita minimă de 0,5 mm menționată pentru acel protocol.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Stratificare și glazurare"
+            },
+            {
+              "type": "list",
+              "text": "Se utilizează o cheie de silicon obținută din wax-up pentru ghidarea lungimii incizale și a formei.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se construiește peretele palatinal cu Transpa Neutral.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se aplică Dentin B1 pentru volumul central și Deep Dentin B1 cervical pentru intensitate cromatică și opacitate.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se folosesc White-Blue, Transpa Blue și Opal Effect 4 pentru efectele incizale, transparență și opalescență.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Prima ardere de dentină se face sub vid; în exemplul de curs temperatura finală este aproximativ 770 °C.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se prelucrează ușor suprafața, se corectează contururile și se completează zonele cu volum insuficient.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "A doua ardere de corecție este indicată în exemplu la aproximativ 730–750 °C.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se răcește lent, se finisează morfologia și se verifică punctele de contact.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se individualizează cu IPS Ivocolor Stain: Sky Blue în treimea incizală și Essence White la mameloane; se aplică IPS Ivocolor Glaze FLUO cu lichid Allround și se arde conform protocolului.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Restaurările sunt predate cabinetului pentru cimentare adezivă.",
+              "ordered": true
+            }
+          ]
+        },
+        {
+          "title": "7. Microlayering și cut-back",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Microlayering înseamnă reducerea selectivă a unei restaurări monolitice sau a machetei în zonele unde se dorește adăugarea unui strat subțire de ceramică estetică. Cel mai frecvent se reduce treimea incizală, vârful cuspizilor sau o zonă vestibulară."
+            },
+            {
+              "type": "list",
+              "text": "Se modelează inițial conturul anatomic complet (full contour) și se confecționează o cheie de silicon.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Reducerea (cut-back) se face în ceară sau după presare, controlând spațiul cu cheia de silicon.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se netezește la viteză și presiune mici; se evită crenelurile severe și prelucrările extreme.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se sablează cu Al₂O₃ de 100 μm la 1–2 bari, apoi se curăță cu jet de abur.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se aplică un strat wash și se sinterizează.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se adaugă mase translucide precum Transpa, Transpa Incisal sau Impulse (Opal 1, Opal 3), în una sau două arderi.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se finalizează cu stain și glaze; corecțiile de volum se pot face cu Ceram Add-On.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Avantaj: oferă profunzime optică mai bună decât o restaurare monolitică simplu pictată, păstrând în același timp o mare parte din rezistența structurii presate."
+            }
+          ]
+        },
+        {
+          "title": "8. CAD/CAM: principiu, istoric și sisteme",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "CAD = Computer-Aided Design (proiectare asistată de calculator). CAM = Computer-Aided Manufacturing (fabricare asistată de calculator). Fluxul pornește de la scanarea 3D a unui obiect/model, continuă cu proiectarea virtuală și se încheie cu prelucrarea automată a unui bloc sau disc."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "An",
+                  "Evoluție CAD/CAM și CEREC"
+                ],
+                [
+                  "1971",
+                  "F. Duret lansează conceptele teoretice pentru producția automatizată CAD/CAM."
+                ],
+                [
+                  "1980",
+                  "Mörmann și Brandestini dezvoltă conceptul CEREC chairside la Universitatea din Zürich."
+                ],
+                [
+                  "1985",
+                  "Primul pacient tratat cu CEREC, cu un inlay din VITABLOCS Mark I."
+                ],
+                [
+                  "1986–1987",
+                  "Siemens achiziționează licența; CEREC 1 este lansat pentru inlay-uri simple."
+                ],
+                [
+                  "1994",
+                  "CEREC 2 extinde indicațiile la inlay-uri complexe, onlay-uri și fațete."
+                ],
+                [
+                  "1997",
+                  "CROWN 1.0 permite proiectarea coroanelor laterale."
+                ],
+                [
+                  "2000",
+                  "CEREC 3 – sistem mai compact și frezare mai precisă."
+                ],
+                [
+                  "2003",
+                  "CEREC 3D permite vizualizarea și manipularea modelelor tridimensionale."
+                ],
+                [
+                  "2005",
+                  "CEREC Crown adaugă proiectarea coroanelor și calcularea automată a contactelor ocluzale."
+                ],
+                [
+                  "2008",
+                  "Unitatea MC XL poate freza o coroană în aproximativ 4 minute."
+                ],
+                [
+                  "2009",
+                  "Bluecam este introdusă în CEREC Acquisition Center."
+                ],
+                [
+                  "2012",
+                  "Omnicam permite captură video color continuă fără pudrare prealabilă."
+                ],
+                [
+                  "2019",
+                  "Primescan aduce achiziție digitală îmbunătățită și scanări de înaltă precizie."
+                ]
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Tipuri de fluxuri"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Categorie",
+                  "Ce include"
+                ],
+                [
+                  "Scanner only",
+                  "Scaner intraoral pentru amprentare digitală și transmiterea fișierelor la laborator/centru de frezare."
+                ],
+                [
+                  "In-office / Chairside",
+                  "Scanner, software CAD și unitate de frezare în cabinet; restaurarea poate fi realizată într-o singură ședință."
+                ],
+                [
+                  "In-Lab / Labside",
+                  "Scanner de laborator, software de design și mașini de frezat; utilizate de tehnicianul dentar."
+                ]
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Sisteme și formate"
+            },
+            {
+              "type": "list",
+              "text": "Sisteme cunoscute: CEREC, CERCON, LAVA, PROCERA, EVEREST, ZENOTEC, Dental Wings, CELAY, DentiCAD, PRECIDENT, BEGO CERAM, WOL-CERAM, ETKON, DIADEM, PRO 50, DIGIDENT, SIMEDA, ATS 3D și MB DENTAL.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Sistemele moderne deschise permit combinarea scannerelor (3Shape, Medit, iTero), software-ului (Exocad) și mașinilor de frezat (vhf, Roland, imes-icore).",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Fișierele universale menționate sunt .STL și .OBJ.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Scannerele vechi puteau necesita pulbere de dioxid de titan pentru reducerea reflexiilor; scannerele moderne au focus automat și captură video color, multe funcționând fără pudrare.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "MAD/MAM – frezare mecanică prin copiere"
+            },
+            {
+              "type": "paragraph",
+              "text": "Este o tehnologie analogică, astăzi în principal istorică. Un profilometru urmărește fizic macheta din ceară sau rășină, iar o freză reproduce mișcarea într-un bloc ceramic. Exemple: Ceramatic și Celay."
+            },
+            {
+              "type": "subheading",
+              "text": "Componentele sistemului CAD/CAM de laborator"
+            },
+            {
+              "type": "list",
+              "text": "Scannerul de laborator: digitizează amprenta, modelul din ghips sau macheta.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Software CAD: proiectează restaurarea în 3D.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Unitatea CAM: frezează blocul sau discul.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Modulul de interconectare: transferă datele între scanner, software și mașina de frezat.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Avantaje și limite"
+            },
+            {
+              "type": "list",
+              "text": "Avantaje: reducerea erorilor analogice și a variațiilor volumetrice, materiale prefabricate omogene, standardizare, pierderi de material mai mici și posibilitatea realizării coroanelor și punților.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Limite: investiție inițială ridicată; adaptarea marginală depinde de precizia scanării și frezării; monoliticele pot avea un compromis estetic față de restaurările stratificate.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Etapele CAD/CAM In-Lab"
+            },
+            {
+              "type": "list",
+              "text": "Amprentare convențională sau scanare intraorală.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Obținerea modelului din ghips, dacă se lucrează analogic.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Scanarea modelului sau a amprentei.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Delimitarea bontului și a liniei marginale.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Proiectarea capei/infrastructurii și stabilirea grosimii.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Stabilirea axului de inserție și a spațiului pentru ciment.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Poziționarea restaurării în disc/bloc (nesting).",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Proiectarea tijelor de susținere (sprues), evitând marginile cervicale și contactele ocluzale.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Generarea traseului de frezare și prelucrarea CAM.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Prelucrarea post-frezare, sinterizarea dacă materialul o cere, proba și finisarea.",
+              "ordered": true
+            }
+          ]
+        },
+        {
+          "title": "9. Materiale ceramice mașinabile",
+          "blocks": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Material",
+                  "Compoziție / caracteristici",
+                  "Indicații și exemple"
+                ],
+                [
+                  "Feldspatică",
+                  "SiO₂ aproximativ 56–64%, Al₂O₃ aproximativ 20–23%, plus Na₂O, K₂O, CaO și TiO₂. Transluciditate mare, efect cameleon, lustruire bună, gravare HF facilă.",
+                  "Inlay, onlay, fațete, coroane. VITABLOCS Mark II, Sirona Blocs, TriLuxe, TriLuxe Forte, RealLife."
+                ],
+                [
+                  "ZLS",
+                  "Silicat de litiu armat cu zirconiu; aproximativ 10% ZrO₂. Aspect inițial chihlimbar/bleu care se transformă după cristalizare.",
+                  "VITA Suprinity; variante T și HT."
+                ],
+                [
+                  "Leucitică",
+                  "Matrice sticloasă întărită cu cristale de leucit.",
+                  "IPS Empress CAD; restaurări unidentare."
+                ],
+                [
+                  "Disilicat de litiu",
+                  "Fază cristalină ridicată, estetică și rezistență bună.",
+                  "IPS e.max CAD; coroane, fațete, inlay/onlay."
+                ],
+                [
+                  "Alumină",
+                  "Ceramică policristalină sau infiltrată cu sticlă, folosită mai ales în sisteme mai vechi.",
+                  "In-Ceram, Procera – utilizare actuală limitată."
+                ],
+                [
+                  "Zirconia",
+                  "Ceramică policristalină fără fază sticloasă; rezistență și stabilitate ridicate.",
+                  "Cape, infrastructuri de punți și coroane monolitice."
+                ]
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Blocuri feldspatice VITA"
+            },
+            {
+              "type": "list",
+              "text": "VITABLOCS Mark II – blocuri monocromatice.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Mark II PC – blocuri precolorate.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "TriLuxe – trei straturi cromatice.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "TriLuxe Forte – patru straturi.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "RealLife – nucleu interior mai saturat (dentină) și strat exterior mai transparent (smalț).",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Blocurile Sirona sunt descrise prin cinci variante de luminozitate, trei grade de transluciditate (Translucent, Medium, Opaque) și opțiuni policromatice. Codificarea poate include S, nivelul de luminozitate 0–5, litera T/M/O și dimensiunea blocului."
+            },
+            {
+              "type": "subheading",
+              "text": "Materiale hibride – nu sunt ceramică mașinabilă propriu-zisă"
+            },
+            {
+              "type": "paragraph",
+              "text": "Materialele PICN (rețele ceramice infiltrate cu polimer) și rășinile nano-hibride nu necesită arderi finale. Sunt folosite mai ales la restaurări unidentare precum inlay și onlay, având un comportament mai elastic și capacitatea de a amortiza parțial solicitările. Exemple: Vita Enamic și Lava Ultimate."
+            }
+          ]
+        },
+        {
+          "title": "10. Zirconia: structură, stabilizare și generații",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Dioxidul de zirconiu (ZrO₂), numit uzual zirconia în stomatologia dentară, este un material policristalin polimorf: structura sa cristalină se poate modifica în funcție de temperatură."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Fază",
+                  "Interval de stabilitate menționat în curs"
+                ],
+                [
+                  "Monoclinică",
+                  "Temperatura camerei până la aproximativ 1170 °C."
+                ],
+                [
+                  "Tetragonală",
+                  "Aproximativ 1170–2370 °C."
+                ],
+                [
+                  "Cubică",
+                  "Peste aproximativ 2370 °C până la punctul de topire."
+                ]
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "10.1. Transformarea de fază și toughening"
+            },
+            {
+              "type": "paragraph",
+              "text": "Zirconia tetragonală metastabilă poate transforma local în fază monoclinică atunci când vârful unei microfisuri produce tensiuni suficient de mari. Faza monoclinică ocupă un volum cu aproximativ 3–5% mai mare."
+            },
+            {
+              "type": "paragraph",
+              "text": "Expansiunea locală a cristalelor din jurul fisurii creează tensiuni de compresiune care se opun deschiderii și propagării fisurii. Efectul este asemănător unei menghine care strânge vârful fisurii. Acest mecanism se numește transformare toughening (întărire prin transformare)."
+            },
+            {
+              "type": "list",
+              "text": "Toughening nu înseamnă că materialul nu se poate fractura, ci că propagarea unei fisuri este îngreunată și necesită mai multă energie.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Stabilizatorii utilizați includ oxizii de ytriu, ceriu, calciu și magneziu. Y₂O₃ este deosebit de important pentru stabilizarea fazelor tetragonală/cubică.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Ionii Y³⁺ pot înlocui parțial ionii Zr⁴⁺ în rețea, generând vacanțe de oxigen și modificând stabilitatea fazelor.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "10.2. Tipuri după stabilizare"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Tip",
+                  "Descriere"
+                ],
+                [
+                  "PSZ",
+                  "Partially Stabilized Zirconia – matrice stabilizată în care se păstrează faze tetragonale metastabile."
+                ],
+                [
+                  "TZP",
+                  "Tetragonal Zirconia Polycrystal – formată predominant din cristale tetragonale metastabile."
+                ],
+                [
+                  "FSZ",
+                  "Fully Stabilized Zirconia – predominant fază cubică."
+                ]
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "10.3. Generațiile zirconiului dentar"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Generație",
+                  "Conținut Y₂O₃",
+                  "Proprietăți dominante"
+                ],
+                [
+                  "I – 3Y-TZP",
+                  "Aproximativ 3 mol%.",
+                  "Predominant tetragonală; rezistență și tenacitate mari, translucență redusă; utilizată frecvent ca infrastructură placată."
+                ],
+                [
+                  "II – 3Y-TZP îmbunătățită",
+                  "Aproximativ 3 mol%.",
+                  "Alumină și porozitate reduse; dispersie luminoasă mai mică, translucență mai bună, păstrează în mare parte rezistența generației I."
+                ],
+                [
+                  "III – 5Y-TZP",
+                  "Aproximativ 5 mol%.",
+                  "Proporție cubică crescută; translucență mai mare, dar rezistență și tenacitate mai mici decât 3Y."
+                ],
+                [
+                  "IV – 4Y-PSZ",
+                  "Aproximativ 4 mol%.",
+                  "Compromis între rezistența zirconiei 3Y și translucența zirconiei 5Y; conține faze tetragonală și cubică."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Regula centrală: creșterea conținutului de ytriu și a proporției fazei cubice crește, în general, translucența, dar reduce rezistența și tenacitatea. 3Y este preferată când rezistența este prioritară; 4Y/5Y când estetica și translucența sunt mai importante."
+            },
+            {
+              "type": "subheading",
+              "text": "10.4. Blocuri și proprietăți"
+            },
+            {
+              "type": "list",
+              "text": "Zirconia se comercializează în principal ca blocuri presinterizate, dar există și blocuri complet sinterizate.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Compactarea poate fi realizată prin presare la rece, presare la cald sau presare izostatică la cald; acestea influențează densitatea, omogenitatea și porozitatea.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Proprietăți menționate: biocompatibilitate, precizie și adaptare marginală, stabilitate termică, porozitate redusă, rezistență la compresiune și îndoire, lipsa coroziunii și translucență variabilă.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Forme de proiectare a zirconiei"
+            },
+            {
+              "type": "list",
+              "text": "Full contour: se frezează aproape de forma anatomică finală; utilizarea a crescut odată cu zirconia mai translucidă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Infrastructură redusă: se frezează o capă care lasă spațiu pentru ceramica de placare.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Design combinat: fețele palatinale și proximale sunt din zirconia, iar vestibularul este redus pentru stratificare sau presare.",
+              "ordered": false
+            }
+          ]
+        },
+        {
+          "title": "11. Flux CAD/CAM pentru zirconia monolitică",
+          "blocks": [
+            {
+              "type": "list",
+              "text": "Se introduc datele administrative: pacient, data nașterii, medic și dintele restaurat.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se scanează arcada de lucru și arcada antagonistă.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se scanează vestibular în ocluzie pentru înregistrarea relației intermaxilare.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se creează modelul virtual și se salvează datele.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se trasează și se corectează limita preparației, apoi software-ul propune designul biogeneric.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se ajustează forma prin instrumente virtuale și se stabilește axul de inserție.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se ajustează cuspizii, punctele de contact și relațiile ocluzale.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se poate selecta manipularea 2D sau 4D: 2D modifică forma în două direcții, iar 4D permite modificări extinse pe direcții orizontale și verticale.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se verifică suprapunerea arcadelor și contactele cu antagonistul.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se proiectează coroana full contour sau capa redusă, în funcție de material și planul estetic.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se poziționează restaurarea în discul de zirconia și se calculează traseul de frezare.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se frezează blocul presinterizat; în această stare materialul este cretos și fragil.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se secționează tijele la turație mică și fără presiune excesivă.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se sinterizează în cuptorul dedicat, conform ciclului materialului, pentru a obține densitatea și rezistența finale.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se finisează, se verifică adaptarea marginală, inserția și contactele.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Pentru restaurările monolitice se pot aplica stain și glaze, urmate de arderea finală.",
+              "ordered": true
+            },
+            {
+              "type": "paragraph",
+              "text": "În restaurările monolitice, forma anatomică este obținută prin frezare, iar culoarea și luciul se definitivează prin caracterizare și glazurare. La zirconia presinterizată trebuie evitate presiunile mari la separarea tijelor și la finisare, deoarece pot apărea microfisuri."
+            }
+          ]
+        },
+        {
+          "title": "12. Flux CAD/CAM pentru punți pe infrastructură",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Exemplul din curs descrie o punte în arcada 3, între dinții 3.5 și 3.7, cu spațiul edentat 3.6. Se proiectează cape pe dinții stâlpi și un corp de punte intermediar."
+            },
+            {
+              "type": "subheading",
+              "text": "Scanare și proiectare"
+            },
+            {
+              "type": "list",
+              "text": "Se obține modelul analogic din amprentă; se pot utiliza bonturi mobile.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se introduc datele administrative, dinții stâlpi, corpul de punte și materialul.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se scanează arcada de lucru, bonturile mobile 3.5 și 3.7, arcada antagonistă și relația de ocluzie.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se trasează margin line, se stabilește axul comun de inserție și spațiul pentru ciment.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Corpul de punte se alege din biblioteca software și se adaptează la forma edentației.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Conectorii se dimensionează prin stabilirea înălțimii, lățimii, ariei secțiunii (mm²) și poziției de legătură dintre cape și corpul de punte.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Se realizează nesting și se amplasează sprue-urile astfel încât să nu afecteze marginile cervicale sau contactele ocluzale.",
+              "ordered": false
+            },
+            {
+              "type": "subheading",
+              "text": "Frezare, sinterizare și placare"
+            },
+            {
+              "type": "list",
+              "text": "Fișierul CAD este salvat (de exemplu STL) și transmis către unitatea CAM.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Discul de zirconiu este fixat în mașina de frezat, iar programul calculează traseul și timpul estimat.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se frezează infrastructura și se îndepărtează tijele cu disc diamantat fin, la turație mică, fără presiune.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Structura presinterizată este sinterizată în cuptorul special.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se îndepărtează urmele tijelor și se fac retușuri fine, fără presiune excesivă.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se verifică pe model adaptarea marginală și inserția completă, apoi se face proba clinică.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se sablează infrastructura cu Al₂O₃ și se curăță cu jet de abur.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se aplică stratul Wash-Bond/Wash-Brand, care îmbunătățește umectabilitatea și aderența ceramicii de placare, apoi se arde.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se stratifică dentina opacă și translucidă pentru volum și culoare, apoi smalțul și masele incizale pentru translucență.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se realizează arderea ceramicii, retușurile anatomice, micro- și macro-textura, curățarea, stain și glaze.",
+              "ordered": true
+            },
+            {
+              "type": "list",
+              "text": "Se face arderea finală de glazurare și se verifică restaurarea pe model.",
+              "ordered": true
+            }
+          ]
+        },
+        {
+          "title": "13. Tabele de recapitulare – valori numerice",
+          "blocks": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Element",
+                  "Valoare din curs"
+                ],
+                [
+                  "Folie de platină",
+                  "Aproximativ 0,025 mm."
+                ],
+                [
+                  "Disilicat de litiu – rezistență",
+                  "Aproximativ 350–500 MPa; în secțiunea presării apare și intervalul 350–450 MPa."
+                ],
+                [
+                  "Ceramici infiltrate In-Ceram",
+                  "Aproximativ 350–650 MPa."
+                ],
+                [
+                  "Zirconia 3Y generația I",
+                  "Peste 1000 MPa este menționat în istoricul introductiv."
+                ],
+                [
+                  "ZLS",
+                  "Aproximativ 10% ZrO₂."
+                ],
+                [
+                  "Tija de presare",
+                  "Aproximativ 2,5–3 mm diametru; lungime 3–8 mm; un pasaj indică peste 3 mm."
+                ],
+                [
+                  "Lungime maximă machetă + tijă",
+                  "Aproximativ 15–16 mm."
+                ],
+                [
+                  "Conformator",
+                  "100 sau 200 g."
+                ],
+                [
+                  "Temperatura ambientală la ambalare",
+                  "18–23 °C."
+                ],
+                [
+                  "Priza masei de ambalat",
+                  "30–60 minute."
+                ],
+                [
+                  "Presare după ambalare",
+                  "În mai puțin de 24 h."
+                ],
+                [
+                  "Preîncălzirea tiparului – exemplu",
+                  "850 °C timp de 60 minute."
+                ],
+                [
+                  "Transfer către cuptorul de presare",
+                  "Sub 30 secunde."
+                ],
+                [
+                  "Dezambalare",
+                  "După aproximativ 60 minute de răcire."
+                ],
+                [
+                  "Sablare la dezambalare",
+                  "Inițial până la 4 bari, apoi aproximativ 2 bari."
+                ],
+                [
+                  "Invex Liquid / baie ultrasonică",
+                  "10–30 minute."
+                ],
+                [
+                  "Cape IPS e.max – grosime verificată în exemplu",
+                  "Aproximativ 0,58 mm; limita minimă indicată în exemplu 0,5 mm."
+                ],
+                [
+                  "Prima ardere dentină – exemplu",
+                  "Aproximativ 770 °C sub vid."
+                ],
+                [
+                  "Ardere corecție – exemplu",
+                  "Aproximativ 730–750 °C."
+                ],
+                [
+                  "Folie de platină",
+                  "Aproximativ 0,025 mm."
+                ],
+                [
+                  "Faza monoclinică zirconia",
+                  "Temperatura camerei până la circa 1170 °C."
+                ],
+                [
+                  "Faza tetragonală zirconia",
+                  "Circa 1170–2370 °C."
+                ],
+                [
+                  "Faza cubică zirconia",
+                  "Peste circa 2370 °C."
+                ],
+                [
+                  "Expansiune la transformarea tetragonal–monoclinică",
+                  "Aproximativ 3–5%."
+                ],
+                [
+                  "Y₂O₃ în 3Y-TZP",
+                  "Aproximativ 3 mol%."
+                ],
+                [
+                  "Y₂O₃ în 4Y-PSZ",
+                  "Aproximativ 4 mol%."
+                ],
+                [
+                  "Y₂O₃ în 5Y-TZP",
+                  "Aproximativ 5 mol%."
+                ],
+                [
+                  "Al₂O₃ pentru microlayering",
+                  "100 μm la 1–2 bari."
+                ],
+                [
+                  "Al₂O₃ pentru sablarea bontului refractar",
+                  "50 μm la 1–2 bari."
+                ],
+                [
+                  "Reducție anatomică în exemplul capelor",
+                  "Aproximativ 0,8 mm."
+                ],
+                [
+                  "Frezare MC XL",
+                  "Coroană în aproximativ 4 minute (valoare istorică din curs)."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "14. Întrebări de verificare",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "1. Care sunt principalele repere istorice ale ceramicii dentare?"
+            },
+            {
+              "type": "paragraph",
+              "text": "2. Care sunt cele patru categorii Kelly și Gracis și prin ce se diferențiază?"
+            },
+            {
+              "type": "paragraph",
+              "text": "3. De ce ceramica vitroasă este mai translucidă, dar de regulă mai puțin rezistentă?"
+            },
+            {
+              "type": "paragraph",
+              "text": "4. Ce materiale pot fi gravate cu acid fluorhidric și cum se condiționează zirconia?"
+            },
+            {
+              "type": "paragraph",
+              "text": "5. Care este diferența dintre tehnica foliei de platină și arderea pe bont refractar?"
+            },
+            {
+              "type": "paragraph",
+              "text": "6. Ce este presarea ceramicii și ce rol au lingoul, tiparul și plungerul?"
+            },
+            {
+              "type": "paragraph",
+              "text": "7. Care este diferența dintre Press-on-Metal și Press-on-Zirconia?"
+            },
+            {
+              "type": "paragraph",
+              "text": "8. Enumeră etapele de laborator pentru o restaurare ceramică presată."
+            },
+            {
+              "type": "paragraph",
+              "text": "9. Care este diferența dintre o capă presată și o coroană full-contour presată?"
+            },
+            {
+              "type": "paragraph",
+              "text": "10. Ce este cut-back și ce urmărește microlayering-ul?"
+            },
+            {
+              "type": "paragraph",
+              "text": "11. Ce înseamnă CAD și CAM?"
+            },
+            {
+              "type": "paragraph",
+              "text": "12. Care sunt diferențele dintre scanner-only, chairside și in-lab?"
+            },
+            {
+              "type": "paragraph",
+              "text": "13. Care sunt componentele unui sistem CAD/CAM de laborator?"
+            },
+            {
+              "type": "paragraph",
+              "text": "14. Care sunt avantajele și limitele frezării CAD/CAM?"
+            },
+            {
+              "type": "paragraph",
+              "text": "15. Ce materiale ceramice mașinabile sunt prezentate în curs?"
+            },
+            {
+              "type": "paragraph",
+              "text": "16. Ce este ZLS și ce conținut de ZrO₂ este indicat?"
+            },
+            {
+              "type": "paragraph",
+              "text": "17. Care sunt fazele cristaline ale zirconiei și intervalele lor de temperatură?"
+            },
+            {
+              "type": "paragraph",
+              "text": "18. Explică mecanismul de transformare toughening al zirconiei."
+            },
+            {
+              "type": "paragraph",
+              "text": "19. Care este diferența dintre PSZ, TZP și FSZ?"
+            },
+            {
+              "type": "paragraph",
+              "text": "20. Cum se diferențiază generațiile 3Y, 4Y și 5Y?"
+            },
+            {
+              "type": "paragraph",
+              "text": "21. De ce creșterea conținutului de ytriu poate crește translucența, dar reduce tenacitatea?"
+            },
+            {
+              "type": "paragraph",
+              "text": "22. Descrie fluxul CAD/CAM pentru o coroană monolitică din zirconia."
+            },
+            {
+              "type": "paragraph",
+              "text": "23. Ce rol au sprue-urile și de ce trebuie evitate marginile cervicale și contactele ocluzale?"
+            },
+            {
+              "type": "paragraph",
+              "text": "24. Care sunt etapele de obținere și placare a unei punți pe infrastructură de zirconia?"
+            }
+          ]
+        },
+        {
+          "title": "Idei-cheie pentru examen",
+          "blocks": [
+            {
+              "type": "list",
+              "text": "Clasificarea ceramicii după microstructură explică atât comportamentul estetic, cât și metoda de cimentare.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Categoria 4 (zirconia policristalină) nu se gravează cu HF; se sablează și se utilizează primer MDP.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Presarea folosește un lingou plastifiat și un plunger care umple tiparul.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "CAD/CAM = scanare 3D → proiectare CAD → fabricație CAM.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Zirconia își crește rezistența la propagarea fisurilor prin transformarea tetragonal–monoclinică și expansiunea locală de 3–5%.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "3Y pune accent pe rezistență; 5Y pune accent pe translucență; 4Y reprezintă un compromis.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Zirconia presinterizată este fragilă înainte de sinterizarea finală; manipularea trebuie făcută fără presiune excesivă.",
+              "ordered": false
+            },
+            {
+              "type": "list",
+              "text": "Restaurarea monolitică este frezată anatomic și caracterizată cu stain/glaze; restaurarea pe infrastructură este placată prin stratificare.",
+              "ordered": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Acest suport reorganizează informațiile din documentul-sursă. Valorile care apar în exemple de laborator sunt prezentate ca valori ale exemplului, iar protocolul clinic și tehnic real trebuie stabilit în funcție de sistemul ceramic și instrucțiunile producătorului."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

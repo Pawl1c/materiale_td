@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Capitolul 12 · Coroana metalo-ceramică",
+    "pass": 70,
+    "questions": [
+      {
+        "q": "Care sunt cele două componente principale ale coroanei metalo-ceramice?",
+        "a": [
+          "Infrastructură metalică și ceramică de placare",
+          "Zirconia și rășină compozită",
+          "Dentină și smalț natural",
+          "Alumină și titan pur"
+        ],
+        "correct": 0,
+        "why": "CMMC este alcătuită dintr-un schelet metalic pentru rezistență și o componentă ceramică pentru aspectul fizionomic."
+      },
+      {
+        "q": "Ce relație între coeficienții de dilatare termică este urmărită?",
+        "a": [
+          "CDT metal < CDT ceramică",
+          "CDT metal ușor > CDT ceramică",
+          "CDT metal = 0",
+          "Nu contează relația CDT"
+        ],
+        "correct": 1,
+        "why": "Metalul trebuie să aibă un CDT ușor mai mare decât ceramica, pentru a induce compresiune favorabilă în ceramică la răcire."
+      },
+      {
+        "q": "Care este intervalul de topire indicat pentru aliajele metalo-ceramice?",
+        "a": [
+          "500–700 °C",
+          "700–900 °C",
+          "1150–1450 °C",
+          "1600–1900 °C"
+        ],
+        "correct": 2,
+        "why": "Suportul indică 1150–1450 °C și o temperatură liquidus cu 100–150 °C peste temperatura de sinterizare a ceramicii."
+      },
+      {
+        "q": "Ce rol are stratul de oxizi de pe aliaj?",
+        "a": [
+          "Împiedică orice legătură cu ceramica",
+          "Contribuie la legătura chimică metalo-ceramică",
+          "Înlocuiește infrastructura metalică",
+          "Crește transluciditatea metalului"
+        ],
+        "correct": 1,
+        "why": "Oxizii formați controlat la suprafața aliajului participă la bonding și la legătura chimică."
+      },
+      {
+        "q": "Care este una dintre metodele de condensare a pastei ceramice?",
+        "a": [
+          "Vibrare",
+          "Congelare",
+          "Electroliză",
+          "Fotopolimerizare"
+        ],
+        "correct": 0,
+        "why": "În curs sunt menționate vibrarea, tamponarea, uscarea controlată și aplicarea pulberii uscate prin capilaritate."
+      },
+      {
+        "q": "Până la ce valoare poate contribui condensarea eficientă la reducerea contracției de sinterizare, conform suportului?",
+        "a": [
+          "2%",
+          "5%",
+          "18%",
+          "40%"
+        ],
+        "correct": 2,
+        "why": "Suportul menționează reducerea contracției de sinterizare de până la 18% prin metodele de condensare."
+      },
+      {
+        "q": "Ce înseamnă SLM în fluxul digital descris?",
+        "a": [
+          "Selective Laser Melting",
+          "Single Layer Milling",
+          "Surface Light Mapping",
+          "Sintered Lithium Matrix"
+        ],
+        "correct": 0,
+        "why": "SLM este fabricația aditivă prin topire selectivă cu laser, utilizată în exemplul digital pentru infrastructura metalică."
+      },
+      {
+        "q": "La ce temperaturi este supus scheletul în timpul arderii ceramicii, în exemplul de curs?",
+        "a": [
+          "100–200 °C",
+          "300–500 °C",
+          "900–1000 °C",
+          "1500–1700 °C"
+        ],
+        "correct": 2,
+        "why": "Suportul menționează rezistența la temperaturi înalte și rezistența la fluaj în zona 900–1000 °C."
+      }
+    ]
+  },
+  {
+    "title": "Capitolul 13 · Coroana integral ceramică",
+    "pass": 70,
+    "questions": [
+      {
+        "q": "Care categorii ceramice pot fi gravate cu acid fluorhidric (HF), conform clasificării Kelly și Gracis?",
+        "a": [
+          "Doar categoria 4",
+          "Categoriile 1 și 2",
+          "Toate categoriile",
+          "Niciuna"
+        ],
+        "correct": 1,
+        "why": "Categoriile 1 și 2 conțin fază sticloasă și pot fi gravate cu HF; zirconia policristalină nu se gravează astfel."
+      },
+      {
+        "q": "Ce rezistență la flexiune este indicată pentru disilicatul de litiu?",
+        "a": [
+          "50–100 MPa",
+          "120–200 MPa",
+          "350–500 MPa",
+          "Peste 2000 MPa"
+        ],
+        "correct": 2,
+        "why": "Suportul menționează aproximativ 350–500 MPa, cu 350–450 MPa în secțiunea despre presare."
+      },
+      {
+        "q": "Ce rol are plungerul în tehnica de presare?",
+        "a": [
+          "Scanează macheta",
+          "Împinge ceramica plastifiată în tipar",
+          "Măsoară culoarea",
+          "Sinterizează zirconia"
+        ],
+        "correct": 1,
+        "why": "Plungerul aplică presiune și împinge materialul încălzit în cavitatea tiparului."
+      },
+      {
+        "q": "Ce înseamnă CAD/CAM?",
+        "a": [
+          "Ceramic Adhesion Design / Ceramic Alloy Milling",
+          "Computer-Aided Design / Computer-Aided Manufacturing",
+          "Clinical Analysis Data / Crown Adjustment Method",
+          "Computerized Abrasion Design / Ceramic Application Model"
+        ],
+        "correct": 1,
+        "why": "CAD înseamnă proiectare asistată de calculator, iar CAM fabricare asistată de calculator."
+      },
+      {
+        "q": "Care este faza zirconiei stabilă la temperatura camerei, în schema din suport?",
+        "a": [
+          "Cubică",
+          "Tetragonală",
+          "Monoclinică",
+          "Amorfă"
+        ],
+        "correct": 2,
+        "why": "Suportul indică faza monoclinică de la temperatura camerei până la aproximativ 1170 °C."
+      },
+      {
+        "q": "Ce efect produce transformarea tetragonal–monoclinică în jurul vârfului fisurii?",
+        "a": [
+          "Contracție de 20%",
+          "Expansiune locală de aproximativ 3–5%",
+          "Topirea zirconiei",
+          "Creșterea fazei sticloase"
+        ],
+        "correct": 1,
+        "why": "Expansiunea locală creează tensiuni de compresiune care îngreunează propagarea fisurii – toughening."
+      },
+      {
+        "q": "Care generație are aproximativ 5 mol% Y₂O₃ și translucență mai mare?",
+        "a": [
+          "3Y-TZP",
+          "4Y-PSZ",
+          "5Y-TZP",
+          "Alumină infiltrată"
+        ],
+        "correct": 2,
+        "why": "5Y-TZP are aproximativ 5 mol% oxid de ytriu și o proporție cubică mai mare, cu translucență crescută."
+      },
+      {
+        "q": "Care este succesiunea de bază a fluxului CAD/CAM?",
+        "a": [
+          "CAM → scanare → CAD → finisare",
+          "Scanare 3D → CAD → CAM → finisare",
+          "Sinterizare → scanare → turnare → CAD",
+          "Presare → CAD → amprentă → CAM"
+        ],
+        "correct": 1,
+        "why": "Fluxul pornește de la scanare, continuă cu proiectarea virtuală CAD și fabricația CAM, apoi finisare."
+      }
+    ]
+  }
+]
